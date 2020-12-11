@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kiledonley/monsters-roledex/static/css/main.0b730b6e.chunk.css",
+    "main.js": "/kiledonley/monsters-roledex/static/js/main.d2621906.chunk.js",
+    "main.js.map": "/kiledonley/monsters-roledex/static/js/main.d2621906.chunk.js.map",
+    "runtime-main.js": "/kiledonley/monsters-roledex/static/js/runtime-main.10777ed7.js",
+    "runtime-main.js.map": "/kiledonley/monsters-roledex/static/js/runtime-main.10777ed7.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/kiledonley/monsters-roledex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/kiledonley/monsters-roledex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/kiledonley/monsters-roledex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/kiledonley/monsters-roledex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/kiledonley/monsters-roledex/index.html",
+    "static/css/main.0b730b6e.chunk.css.map": "/kiledonley/monsters-roledex/static/css/main.0b730b6e.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/kiledonley/monsters-roledex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10777ed7.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.0b730b6e.chunk.css",
+    "static/js/main.d2621906.chunk.js"
+  ]
+}
